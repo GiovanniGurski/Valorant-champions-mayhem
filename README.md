@@ -1,6 +1,5 @@
-======================================================================
+
 DOCUMENTO DE VISÃO E ESPECIFICAÇÃO DE PROJETO: VALORANT MAYHEM
-======================================================================
 
 1. VISÃO GERAL E CONCEITO
 O VALORANT Mayhem é um jogo web interativo e educativo para navegadores, focado na comunidade global do Valorant Champions Tour (VCT). Inspirado em títulos virais como LoLdle e Immaculate Grid, o projeto desafia o conhecimento dos fãs sobre histórico de transferências, posições táticas e atributos de jogadores (2022 a 2026).
