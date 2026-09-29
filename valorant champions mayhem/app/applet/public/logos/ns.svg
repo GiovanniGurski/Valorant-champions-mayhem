@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Outer Gold Border Shield -->
+  <path d="M100 12 L164 30 V95 C164 140 136 172 100 186 C64 172 36 140 36 95 V30 Z" fill="#0d0d0f" stroke="#cba135" stroke-width="4" />
+  <!-- Top Red Half -->
+  <path d="M40 33 L100 16 L160 33 V80 H40 Z" fill="#de2027" />
+  <!-- White ECG Pulse dividing line -->
+  <path d="M38 78 H80 L92 42 L108 116 L124 78 H162" stroke="#ffffff" stroke-width="8" stroke-linecap="round" stroke-linejoin="miter" fill="none" />
+  <!-- RED FORCE Text -->
+  <g fill="#de2027" font-family="'Teko', sans-serif" font-weight="900" font-size="22" letter-spacing="3" text-anchor="middle">
+    <text x="100" y="142">RED</text>
+    <text x="100" y="162" font-size="16" letter-spacing="6">FORCE</text>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <rect width="100" height="100" rx="20" fill="#0f0f0f"/>
+  <circle cx="50" cy="50" r="38" fill="#141414" stroke="#c51d24" stroke-width="4"/>
+  <circle cx="50" cy="50" r="32" fill="none" stroke="#ffffff" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <text x="50" y="58" text-anchor="middle" font-family="sans-serif" font-weight="900" font-size="24" fill="#c51d24" letter-spacing="-0.5">EDG</text>
+  <text x="50" y="70" text-anchor="middle" font-family="sans-serif" font-weight="700" font-size="7" fill="#ffffff" letter-spacing="1">EDWARD GAMING</text>
+</svg>

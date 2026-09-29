@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Talon Falcon Head & Wing Feathers -->
+  <g fill="#e51b24">
+    <!-- Hawk Head & Body Base -->
+    <path d="M12 78 L26 48 L44 68 L72 74 L46 172 L36 172 L58 108 L28 88 L12 78 Z" />
+    <polygon points="12,76 28,48 46,68 76,74 46,182 34,182 60,110 26,88" />
+    <!-- Wing Feather 1 -->
+    <polygon points="68,88 88,144 80,144 62,94" />
+    <!-- Wing Feather 2 -->
+    <polygon points="80,78 116,134 104,134 72,82" />
+    <!-- Wing Feather 3 -->
+    <polygon points="94,66 148,118 134,118 84,70" />
+    <!-- Wing Feather 4 (Long Top Wing) -->
+    <polygon points="112,50 188,96 172,96 98,54" />
+  </g>
+</svg>

@@ -1,0 +1,107 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Rajdhani', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    letter-spacing: 0.02em;
+    background-color: #090d16;
+    color: #e2e8f0;
+  }
+
+  h1, h2, h3, h4, .font-vct {
+    font-family: 'Teko', sans-serif;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+
+  .font-mono-vct {
+    font-family: 'Chakra Petch', monospace;
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+/* Glassmorphism card styling for modern e-sports HUD (Dark Mode Glassmorphism with sharp, straight corners) */
+.vct-glass-panel {
+  position: relative;
+  background: rgba(13, 19, 34, 0.72);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.09);
+  border-radius: 4px; /* Straight, sleek tactical corners */
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.75), 0 0 0 1px rgba(255, 255, 255, 0.03);
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.vct-glass-panel:hover {
+  border-color: rgba(255, 255, 255, 0.16);
+}
+
+/* Arena radial glows in corners for depth and 3D atmosphere */
+.vct-glow-red {
+  position: relative;
+}
+.vct-glow-red::before {
+  content: '';
+  position: absolute;
+  top: -80px;
+  right: -80px;
+  width: 240px;
+  height: 240px;
+  background: radial-gradient(circle, rgba(255, 70, 85, 0.12) 0%, rgba(255, 70, 85, 0) 70%);
+  border-radius: 9999px;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.vct-glow-cyan {
+  position: relative;
+}
+.vct-glow-cyan::before {
+  content: '';
+  position: absolute;
+  top: -80px;
+  left: -80px;
+  width: 240px;
+  height: 240px;
+  background: radial-gradient(circle, rgba(14, 165, 233, 0.10) 0%, rgba(14, 165, 233, 0) 70%);
+  border-radius: 9999px;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.vct-glow-gold::after {
+  content: '';
+  position: absolute;
+  bottom: -80px;
+  left: -80px;
+  width: 220px;
+  height: 220px;
+  background: radial-gradient(circle, rgba(245, 158, 11, 0.08) 0%, rgba(245, 158, 11, 0) 70%);
+  border-radius: 9999px;
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* Subtle Valorant tactical grid */
+.vct-ambient-grid {
+  background-image: 
+    linear-gradient(to right, rgba(255, 255, 255, 0.02) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.02) 1px, transparent 1px);
+  background-size: 32px 32px;
+}
+
+/* Custom esports scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #090d16;
+}
+::-webkit-scrollbar-thumb {
+  background: #1e293b;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #ff4655;
+}

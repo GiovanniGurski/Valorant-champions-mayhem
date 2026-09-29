@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <defs>
+    <linearGradient id="xlg-crown-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38b2ac" />
+      <stop offset="50%" stop-color="#2c7a7b" />
+      <stop offset="100%" stop-color="#1a365d" />
+    </linearGradient>
+    <linearGradient id="xlg-line-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4fd1c5" />
+      <stop offset="100%" stop-color="#3182ce" />
+    </linearGradient>
+  </defs>
+  <!-- Outer Crown Star Shape -->
+  <path d="M100 28 L128 72 L185 75 L144 116 L158 160 L100 135 L42 160 L56 116 L15 75 L72 72 Z" stroke="url(#xlg-crown-grad)" stroke-width="12" stroke-linejoin="round" stroke-linecap="round" fill="none" />
+  <!-- Inner Triangle Peak -->
+  <path d="M100 56 L120 90 L80 90 Z" fill="none" stroke="url(#xlg-crown-grad)" stroke-width="7" />
+  <!-- Center Diamond & Accents -->
+  <polygon points="100,74 104,82 100,90 96,82" fill="#2c7a7b" />
+  <circle cx="88" cy="95" r="3.5" fill="#38b2ac" />
+  <circle cx="112" cy="95" r="3.5" fill="#38b2ac" />
+  <!-- Horizontal Horizon Band -->
+  <line x1="18" y1="80" x2="182" y2="80" stroke="url(#xlg-line-grad)" stroke-width="4" stroke-linecap="round" />
+  <!-- XLG Wordmark -->
+  <g fill="#004b87">
+    <!-- X -->
+    <path d="M50 148 L65 148 L76 164 L87 148 L101 148 L84 171 L102 195 L88 195 L75 177 L62 195 L48 195 L67 171 Z" />
+    <!-- L -->
+    <path d="M108 148 L123 148 L123 182 L145 182 L145 195 L108 195 Z" />
+    <!-- G -->
+    <path d="M178 164 L164 164 C162 159 157 157 151 157 C142 157 136 164 136 172 C136 180 142 187 151 187 C156 187 161 184 163 179 L152 179 L152 169 L178 169 L178 184 C173 192 163 197 150 197 C133 197 122 186 122 172 C122 157 134 146 151 146 C163 146 173 153 178 164 Z" />
+  </g>
+</svg>

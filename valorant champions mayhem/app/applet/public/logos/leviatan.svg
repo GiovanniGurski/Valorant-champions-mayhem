@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Leviatan Dragon Crest -->
+  <g fill="#4ea5de">
+    <!-- Circular Dragon Head Crest -->
+    <path d="M100 16 C58 16 26 46 22 88 L38 88 C42 54 68 32 100 32 C124 32 144 44 156 62 L138 72 C130 58 116 48 100 48 C84 48 70 56 62 70 L46 62 C58 40 78 26 100 26 C138 26 170 56 174 94 L158 94 C154 66 130 42 100 42 Z" />
+    <!-- Roaring Dragon Jaws & Spikes -->
+    <path d="M50 100 C50 78 68 60 90 60 L80 72 C68 76 62 86 62 96 L46 96 C48 97 50 99 50 100 Z" />
+    <path d="M100 68 L114 84 L96 90 L124 102 L90 108 L136 120 L84 126 C102 144 130 148 152 134 L162 146 C134 166 98 162 74 138 C58 122 52 102 54 84 L38 84 C36 108 44 132 64 150 C94 178 140 178 170 150 C182 138 188 122 188 106 H172 C172 118 166 130 156 138 Z" />
+    <polygon points="112,88 126,96 112,102" />
+    <polygon points="120,108 136,114 120,122" />
+  </g>
+
+  <!-- LEVIATAN Text -->
+  <text x="100" y="190" text-anchor="middle" font-family="'Teko', sans-serif" font-weight="700" font-size="28" fill="#4ea5de" letter-spacing="4">
+    LEVIATAN
+  </text>
+</svg>

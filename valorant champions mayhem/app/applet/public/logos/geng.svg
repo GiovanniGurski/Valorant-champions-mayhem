@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Top GEN.G text -->
+  <g fill="#050505">
+    <!-- G -->
+    <path d="M35 24 H62 V38 H49 V44 H62 V58 H35 Z M49 44 H62 V58 H49 Z" fill-rule="evenodd" />
+    <path d="M35 24 H61 V35 H47 V47 H61 V58 H35 Z" />
+    <path d="M49 43 H61 V58 H49 Z" />
+    <!-- E -->
+    <path d="M67 24 H91 V35 H79 V38 H90 V46 H79 V47 H91 V58 H67 Z" />
+    <!-- N -->
+    <path d="M96 24 H108 L116 46 V24 H127 V58 H115 L108 36 V58 H96 Z" />
+    <!-- Dot -->
+    <rect x="131" y="50" width="8" height="8" />
+    <!-- G -->
+    <path d="M143 24 H169 V35 H155 V47 H169 V58 H143 Z" />
+    <path d="M157 43 H169 V58 H157 Z" />
+  </g>
+  <!-- Angled top crest cutouts -->
+  <path d="M35 24 L55 32 L35 32 Z M169 24 L149 32 L169 32 Z" fill="#ffffff" />
+
+  <!-- Shield Shape Below -->
+  <!-- Left Side: Gold G -->
+  <path d="M36 66 H94 V176 L36 120 Z" fill="#aa8a00" />
+  <path d="M55 84 H94 V102 H74 V130 L55 116 Z" fill="#000000" opacity="0.15" />
+  <path d="M55 84 H94 V102 H74 V115 H94 V145 L74 130 V115 H55 Z" fill="#ffffff" />
+  <path d="M36 66 H94 V176 L36 120 Z" fill="#aa8a00" />
+  <path d="M55 86 H94 V106 H74 V124 L94 138 V152 L55 124 Z" fill="#ffffff" />
+  <!-- Crisp Recut of Gold Left G -->
+  <path d="M36 66 H94 V176 L36 120 Z" fill="#aa8a00" />
+  <polygon points="55,86 94,86 94,106 74,106 74,124 94,138 94,152 55,124" fill="#000000" />
+  <!-- We want clean Gold G and Black G mirroring -->
+  <g id="geng-shield">
+    <!-- Left Gold Half -->
+    <path d="M36 66 H94 V176 L36 120 Z" fill="#b08b26" />
+    <path d="M55 86 H94 V104 H75 V120 H94 V138 L94 153 L55 124 Z" fill="#ffffff" />
+    <!-- Left inner cut -->
+    <polygon points="55,86 94,86 94,104 74,104 74,120 94,136 94,152 55,124" fill="#090d16" />
+  </g>
+  <g id="geng-right">
+    <!-- Right Black Half -->
+    <path d="M106 66 H164 V120 L106 176 Z" fill="#121212" />
+    <polygon points="145,86 106,86 106,104 126,104 126,120 106,136 106,152 145,124" fill="#090d16" />
+  </g>
+</svg>

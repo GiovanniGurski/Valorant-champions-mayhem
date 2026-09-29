@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- JDG Demon Horns Red Crest -->
+  <g fill="#d81e28">
+    <!-- Left Horn & J bracket -->
+    <path d="M48 62 L64 78 H80 V138 H64 V122 H48 V146 L72 154 L96 142 V62 L60 62 Z" />
+    <polygon points="46,62 60,76 78,76 78,140 60,140 60,122 44,122 44,148 76,156 94,142 94,62 46,62" />
+    <!-- Center D -->
+    <path d="M84 76 H116 V140 H84 Z M98 90 H104 V126 H98 Z" />
+    <!-- Right Horn & G bracket -->
+    <polygon points="154,62 140,76 122,76 122,140 140,140 140,122 156,122 156,148 124,156 106,142 106,62 154,62" />
+    <!-- Left Horn Flare -->
+    <polygon points="46,62 18,74 34,92 46,78" />
+    <!-- Right Horn Flare -->
+    <polygon points="154,62 182,74 166,92 154,78" />
+  </g>
+</svg>

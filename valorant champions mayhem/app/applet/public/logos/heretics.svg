@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Gold Shield Outer Rim -->
+  <path d="M100 10 L176 34 V100 C176 148 144 178 100 192 C56 178 24 148 24 100 V34 Z" fill="#121214" stroke="#cfa052" stroke-width="5" />
+  <!-- Inner White Hood Silhouette -->
+  <path d="M100 28 C128 32 152 56 156 94 C158 126 146 154 134 168 L124 156 C136 138 142 112 138 90 C134 68 118 48 100 44 C82 48 66 68 62 90 C58 112 64 138 76 156 L66 168 C54 154 42 126 44 94 C48 56 72 32 100 28 Z" fill="#ffffff" />
+  <!-- Inner Hood Point & Shadow -->
+  <path d="M100 44 C116 52 130 74 126 102 C122 132 100 162 100 162 C100 162 78 132 74 102 C70 74 84 52 100 44 Z" fill="#09090b" />
+  <!-- Glowing Eyes -->
+  <polygon points="84,94 96,96 90,99 82,97" fill="#ffffff" />
+  <polygon points="116,94 104,96 110,99 118,97" fill="#ffffff" />
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- KC Monogram in Electric Cyan -->
+  <g fill="#00c8ff">
+    <!-- Oval Ring C -->
+    <path d="M100 20 C146 20 184 56 184 100 C184 144 146 180 100 180 C54 180 16 144 16 100 C16 56 54 20 100 20 Z M100 44 C66 44 38 68 38 100 C38 132 66 156 100 156 C134 156 162 132 162 100 C162 68 134 44 100 44 Z" />
+
+    <!-- K Overlay -->
+    <polygon points="62,38 90,38 90,162 62,162" />
+    <polygon points="90,100 154,38 184,38 114,104" />
+    <polygon points="102,96 186,162 154,162 88,108" />
+  </g>
+</svg>

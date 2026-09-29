@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- OpTic Gaming Interlocking OG -->
+  <!-- Left Black O shape -->
+  <path d="M78 50 C44 50 30 72 30 100 C30 128 44 150 78 150 C96 150 110 142 118 130 L104 116 C98 124 90 128 78 128 C58 128 48 114 48 100 C48 86 58 72 78 72 C90 72 98 76 104 84 L118 70 C110 58 96 50 78 50 Z" fill="#181818" />
+
+  <!-- Right Bright Green G shape -->
+  <path d="M122 72 C142 72 152 86 152 100 C152 114 142 128 122 128 H100 V150 H122 C156 150 170 128 170 100 C170 72 156 50 122 50 C104 50 90 58 82 70 L96 84 C102 76 110 72 122 72 Z" fill="#88c227" />
+  <rect x="88" y="92" width="46" height="18" fill="#88c227" />
+</svg>

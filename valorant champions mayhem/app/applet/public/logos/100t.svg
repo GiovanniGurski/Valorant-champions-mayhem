@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Red Circular Brush Ring -->
+  <path d="M100 24 C142 24 176 58 176 100 C176 142 142 176 100 176 C58 176 24 142 24 100 C24 64 50 34 82 26" stroke="#de1f26" stroke-width="18" stroke-linecap="round" fill="none" />
+
+  <!-- White 100 -->
+  <g fill="#ffffff">
+    <!-- 1 -->
+    <path d="M54 92 L68 76 L80 80 L52 146 L38 142 L54 92 Z" />
+    <!-- First 0 (slanted loop) -->
+    <ellipse cx="88" cy="114" rx="16" ry="26" transform="rotate(-18 88 114)" stroke="#ffffff" stroke-width="12" fill="none" />
+    <!-- Second 0 (slanted loop) -->
+    <ellipse cx="120" cy="110" rx="16" ry="26" transform="rotate(-18 120 110)" stroke="#ffffff" stroke-width="12" fill="none" />
+  </g>
+
+  <!-- Red Crossing Brush T -->
+  <path d="M136 78 L192 64 L184 76 L154 84 L142 134 L128 134 L138 88" fill="#de1f26" />
+</svg>
